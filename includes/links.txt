@@ -1,0 +1,16 @@
+  <a href="https://www.google.com"
+     style="color:#000000; background-color:transparent; text-decoration:none; font-family:'Courier New'; font-size:32px; font-weight:bold; margin-right:16px;"
+     onmouseover="this.style.color='#000000'; this.style.backgroundColor='#FFFFFF';"
+     onmouseout="this.style.color='#000000'; this.style.backgroundColor='transparent';">&nbsp;File&nbsp;</a>
+  <a href="https://www.google.com"
+     style="color:#000000; background-color:transparent; text-decoration:none; font-family:'Courier New'; font-size:32px; font-weight:bold; margin-right:16px;"
+     onmouseover="this.style.color='#000000'; this.style.backgroundColor='#FFFFFF';"
+     onmouseout="this.style.color='#000000'; this.style.backgroundColor='transparent';">&nbsp;Edit&nbsp;</a>
+  <a href="https://www.google.com"
+     style="color:#000000; background-color:transparent; text-decoration:none; font-family:'Courier New'; font-size:32px; font-weight:bold; margin-right:16px;"
+     onmouseover="this.style.color='#000000'; this.style.backgroundColor='#FFFFFF';"
+     onmouseout="this.style.color='#000000'; this.style.backgroundColor='transparent';">&nbsp;Tools&nbsp;</a>
+  <a href="https://www.google.com"
+     style="color:#000000; background-color:transparent; text-decoration:none; font-family:'Courier New'; font-size:32px; font-weight:bold;"
+     onmouseover="this.style.color='#000000'; this.style.backgroundColor='#FFFFFF';"
+     onmouseout="this.style.color='#000000'; this.style.backgroundColor='transparent';">&nbsp;Help&nbsp;</a>
